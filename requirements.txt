@@ -1,6 +1,5 @@
 fastapi==0.95.1
-<<<<<<< HEAD
+
 uvicorn==0.21.1
-=======
-uvicorn==0.21.1
->>>>>>> 337bb12731e48b6cbd979711c45b930dce72171a
+
+pandas
